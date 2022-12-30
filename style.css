@@ -12,13 +12,13 @@ h1{
   font-weight: normal;
 }
 /* Nav bar and Buttons */
-.flex {
+.pro {
   display: flex;
   justify-content: space-between;
   gap: 0.5em;
 }
 /* button Bg and color */
-.bg {
+.logo {
   background: black;
   color: white;
   padding: 1em;
